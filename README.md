@@ -1,8 +1,6 @@
 
 
-## 🎨 Ma bannière
-
-![Ma Bannière](https://fr.pinterest.com/pin/362399101289949834/)
+![Ma Bannière](https://imgur.com/a/iMfLYSP)
 # 👋 Salut, je suis Kaoutar
 
 Bienvenue sur mon profil GitHub ! 😄  
