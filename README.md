@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Koautar
+# 👋 Salut, je suis Kaoutar
 
 Bienvenue sur mon profil GitHub ! 😄  
 Je suis passionnée par le développement, les données et l’intelligence artificielle.
