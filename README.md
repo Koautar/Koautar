@@ -7,7 +7,5 @@ Je suis passionnée par le développement, les données et l’intelligence arti
 
 ## 🚀 À propos de moi
 
-- 🧠 J’aime apprendre et créer des projets utiles
-
 Merci d’être passé(e) 😊  
 Bon coding ! 💻✨
