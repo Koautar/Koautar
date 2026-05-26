@@ -73,6 +73,12 @@ Document understanding, source-grounded answers, hallucination control and evalu
 
 FastAPI backends, Docker deployment, dashboards, monitoring and MLOps workflows.
 
+</td>
+</tr>
+</table>
+
+---
+
 ## 🧬 My AI DNA
 
 <table align="center">
@@ -102,10 +108,6 @@ NLP · Embeddings · MLflow · Monitoring
 
 ## 🧭 Currently exploring
 
-```md
-
-## 🧭 Currently exploring
-
 <p align="center">
   <img src="https://img.shields.io/badge/Agentic%20AI-Exploring-0057B8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG%20Evaluation-Exploring-0057B8?style=for-the-badge" />
@@ -113,6 +115,7 @@ NLP · Embeddings · MLflow · Monitoring
   <img src="https://img.shields.io/badge/MLOps-Exploring-0057B8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Azure%20Environment-Exploring-0057B8?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
+
 ---
 
 ## 🌐 More than code
