@@ -106,15 +106,8 @@ NLP · Embeddings · MLflow · Monitoring
 
 ---
 
-## 🧭 Currently exploring
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Agentic%20AI-Exploring-0057B8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG%20Evaluation-Exploring-0057B8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Graph%20AI-Exploring-0057B8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLOps-Exploring-0057B8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Azure%20Environment-Exploring-0057B8?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</p>
+
 
 ---
 
