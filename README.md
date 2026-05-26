@@ -1,27 +1,117 @@
-# Hi, I'm Kaoutar Ben-Charef 👋
+<!-- ================= INTRO ================= -->
 
-### AI Engineer | Generative AI | NLP | RAG | MLOps
+## 🧠 Who am I?
 
-I'm an AI Engineer specialized in building end-to-end AI systems, from data processing and model development to API deployment and monitoring.
+```python
+class KaoutarBenCharef:
+    role = "AI Engineer"
+    focus = ["Generative AI", "NLP", "RAG", "MLOps", "AI Products"]
+    mindset = "Build useful, explainable and production-ready AI systems"
 
-I focus on **Generative AI**, **NLP**, **semantic search**, **RAG pipelines**, and **AI-powered decision systems**.
+    currently = {
+        "looking_for": "CDI in AI / Machine Learning / NLP",
+        "location": "Paris, France",
+        "portfolio": "kaoutar-bencharef-portfolio.vercel.app"
+    }
+
+    def value(self):
+        return "From data to model, from model to API, from API to real product."
+```
 
 ---
 
-## 🧠 AI & Tech Stack
+## ⚡ My AI Playground
 
-**AI / ML:** Python, PyTorch, TensorFlow, Scikit-learn, XGBoost, NLP, LSTM, GNN  
-**Generative AI:** LLMs, RAG, LangChain, Embeddings, FAISS, ChromaDB, Prompt Engineering  
-**Backend & MLOps:** FastAPI, Docker, MLflow, Airflow, GitLab CI/CD  
-**Data:** SQL, NoSQL, Elasticsearch, Pandas  
-**Tools:** Git, Linux, Jupyter, Ollama, OpenWebUI, LM Studio  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,git,github,linux,postgres,mongodb,elasticsearch,react,vercel" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-0057B8?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-0057B8?style=flat-square&logo=googledocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-0057B8?style=flat-square&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embeddings-0057B8?style=flat-square&logo=vectorlogozone&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-0057B8?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0057B8?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0057B8?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-0057B8?style=flat-square&logo=chainlink&logoColor=white" />
+</p>
 
 ---
 
-## 🌐 Connect with me
+## 🛰️ What I like building
 
-- Portfolio: https://kaoutar-bencharef-portfolio.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/kaoutar-ben-charef-635a34251/
-- GitHub: https://github.com/Koautar
-- Email: kaoutarbencharef8@gmail.com
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Intelligent Agents
+
+AI systems that can reason, retrieve information, analyze documents and generate structured outputs.
+
+</td>
+<td width="50%">
+
+### 🔎 Semantic Search
+
+NLP pipelines, embeddings, similarity scoring and contextual recommendation systems.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧩 RAG Applications
+
+Document understanding, source-grounded answers, hallucination control and evaluation.
+
+</td>
+<td width="50%">
+
+### 🚀 AI Products
+
+FastAPI backends, Docker deployment, dashboards, monitoring and MLOps workflows.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧬 My AI DNA
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koautar&layout=compact&theme=transparent&title_color=0057B8&text_color=222222&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Koautar&show_icons=true&theme=transparent&title_color=0057B8&icon_color=0057B8&text_color=222222&hide_border=true" height="160" />
+</p>
+
+---
+
+## 🧭 Currently exploring
+
+```txt
+Agentic AI       ███████████████████░░
+RAG Evaluation   ██████████████████░░░
+Graph AI         ███████████████░░░░░░
+MLOps            █████████████████░░░░
+LLM Apps         ████████████████████░
+```
+
+---
+
+## 🌐 More than code
+
+<p align="center">
+  <a href="https://kaoutar-bencharef-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Explore%20my%20Portfolio-0057B8?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>“I don’t just train models — I build AI systems that connect data, intelligence and real business value.”</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0057B8&height=100&section=footer" />
+</p>
