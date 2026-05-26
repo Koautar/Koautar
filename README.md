@@ -73,31 +73,46 @@ Document understanding, source-grounded answers, hallucination control and evalu
 
 FastAPI backends, Docker deployment, dashboards, monitoring and MLOps workflows.
 
+## 🧬 My AI DNA
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+  
+### 🧠 GenAI
+LLMs · RAG · Agents · Prompt Engineering
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ Engineering
+FastAPI · Docker · APIs · CI/CD
+
+</td>
+<td align="center" width="33%">
+
+### 📊 Data
+NLP · Embeddings · MLflow · Monitoring
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 🧬 My AI DNA
+## 🧭 Currently exploring
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koautar&layout=compact&theme=transparent&title_color=0057B8&text_color=222222&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Koautar&show_icons=true&theme=transparent&title_color=0057B8&icon_color=0057B8&text_color=222222&hide_border=true" height="160" />
-</p>
-
----
+```md
 
 ## 🧭 Currently exploring
 
-```txt
-Agentic AI       ███████████████████░░
-RAG Evaluation   ██████████████████░░░
-Graph AI         ███████████████░░░░░░
-MLOps            █████████████████░░░░
-LLM Apps         ████████████████████░
-```
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Agentic%20AI-Exploring-0057B8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20Evaluation-Exploring-0057B8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Graph%20AI-Exploring-0057B8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLOps-Exploring-0057B8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure%20Environment-Exploring-0057B8?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
 ---
 
 ## 🌐 More than code
